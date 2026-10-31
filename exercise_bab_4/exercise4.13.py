@@ -10,7 +10,7 @@ print("Menu awal restoran:")
 for makanan in menu_restoran:
     print(makanan)
 
-
+#Menu tuple tidak dapat diubah, tetapi kita dapat membuat tuple baru dengan item yang diperbarui
 print("\nMenu telah diperbarui!")
 
 menu_restoran = (
@@ -21,5 +21,6 @@ menu_restoran = (
     "Soto Ayam"
 )
 
+#menu restoran yang diperbarui maka akan menampilkan menu baru
 for makanan in menu_restoran:
     print(makanan)

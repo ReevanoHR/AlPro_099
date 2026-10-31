@@ -8,6 +8,6 @@ print("Makanan favorit saya:")
 for makanan in makanan_saya:
     print(makanan)
 
-print("\nMakanan favorit teman saya:")
+print("\nMakanan favorit Sergie:")
 for makanan in makanan_teman:
     print(makanan)
