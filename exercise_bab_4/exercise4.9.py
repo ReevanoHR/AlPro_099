@@ -44,3 +44,5 @@ print("=" * 50)
 daftar_kubus = [angka ** 3 for angka in range(1, 11)]
 
 print(daftar_kubus)
+
+#31

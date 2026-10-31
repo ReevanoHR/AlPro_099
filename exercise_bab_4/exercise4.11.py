@@ -12,3 +12,5 @@ for pizza in daftar_pizza:
 print("\nPizza favorit teman saya:")
 for pizza in teman_pizza:
     print(pizza)
+    
+#33

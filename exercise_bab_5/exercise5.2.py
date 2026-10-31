@@ -42,3 +42,5 @@ print("pisang" in buah)          # False
 print("\nPengujian tidak ada dalam list:")
 print("pisang" not in buah)      # True
 print("apel" not in buah)        # False
+
+#37

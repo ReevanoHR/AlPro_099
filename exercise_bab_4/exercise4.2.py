@@ -13,3 +13,4 @@ for hewan in daftar_hewan:
     print(f"{hewan} adalah hewan peliharaan yang umum.")
 
 print("Semua hewan tersebut dapat menjadi hewan peliharaan yang baik.")
+#24

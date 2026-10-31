@@ -30,3 +30,5 @@ print(angka > 20)
 
 print("\nApakah angka == 5? Saya memprediksi False.")
 print(angka == 5)
+
+#36

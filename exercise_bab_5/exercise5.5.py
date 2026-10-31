@@ -24,3 +24,5 @@ elif warna_alien == "yellow":
     print("Pemain mendapatkan 10 poin.")
 else:
     print("Pemain mendapatkan 15 poin.")
+    
+#41

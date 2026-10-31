@@ -24,3 +24,5 @@ menu_restoran = (
 #menu restoran yang diperbarui maka akan menampilkan menu baru
 for makanan in menu_restoran:
     print(makanan)
+    
+#35

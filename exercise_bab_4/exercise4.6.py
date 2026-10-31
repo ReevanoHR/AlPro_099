@@ -21,3 +21,4 @@ angka_ganjil = range(1, 21, 2)
 for angka in angka_ganjil:
     print(angka)
     
+#28

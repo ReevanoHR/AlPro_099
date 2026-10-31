@@ -11,3 +11,5 @@ for makanan in makanan_saya:
 print("\nMakanan favorit Sergie:")
 for makanan in makanan_teman:
     print(makanan)
+    
+#34

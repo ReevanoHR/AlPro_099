@@ -9,3 +9,5 @@ for nomor in angka:
         print("3rd")
     else:
         print(f"{nomor}th")
+        
+#48

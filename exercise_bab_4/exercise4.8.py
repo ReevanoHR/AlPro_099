@@ -39,3 +39,4 @@ for angka in range(1, 11):
 for kubus in daftar_kubus:
     print(kubus)
     
+#30

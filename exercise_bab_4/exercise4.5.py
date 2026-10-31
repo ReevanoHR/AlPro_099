@@ -14,3 +14,4 @@ print("Nilai terkecil:", min(daftar_angka))
 print("Nilai terbesar:", max(daftar_angka))
 print("Jumlah seluruh angka:", sum(daftar_angka))
 
+#27

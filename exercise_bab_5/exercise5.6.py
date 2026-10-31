@@ -12,3 +12,5 @@ elif umur < 65:
     print("Orang tersebut adalah dewasa.")
 else:
     print("Orang tersebut adalah lansia.")
+    
+#42

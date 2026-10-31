@@ -13,3 +13,5 @@ print(daftar_pizza[1:4])
 # 3 topping terakhir disukai Raka
 print("\nRaka Menyukai:")
 print(daftar_pizza[-3:])
+
+#32

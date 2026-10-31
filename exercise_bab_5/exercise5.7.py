@@ -14,3 +14,5 @@ if "apel" in buah_favorit:
 
 if "pisang" in buah_favorit:
     print("Saya sangat menyukai pisang!")
+    
+#43
