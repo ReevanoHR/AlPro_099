@@ -23,3 +23,5 @@ for nama_kota, informasi in kota.items():
     print(f"Negara: {informasi['negara'].title()}")
     print(f"Populasi: {informasi['populasi']}")
     print(f"Fakta: {informasi['fakta']}")
+    
+#59

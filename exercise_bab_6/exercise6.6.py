@@ -24,3 +24,5 @@ for orang in responden:
             f"{orang.title()}, "
             "silakan ikuti survei bahasa pemrograman."
         )
+        
+#54

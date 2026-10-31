@@ -14,3 +14,5 @@ while True:
         print("Harga tiket $10.")
     else:
         print("Harga tiket $15.")
+
+#65

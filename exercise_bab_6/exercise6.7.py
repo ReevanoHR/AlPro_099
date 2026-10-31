@@ -20,3 +20,5 @@ daftar_orang = [orang_1, orang_2, orang_3]
 
 for orang in daftar_orang:
     print(orang)
+    
+#55

@@ -8,3 +8,5 @@ angka_favorit = {
 
 for nama, angka in angka_favorit.items():
     print(f"Angka favorit {nama} adalah {angka}.")
+    
+#50

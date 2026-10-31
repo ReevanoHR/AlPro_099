@@ -5,3 +5,5 @@ while pesan != "quit":
 
     if pesan != "quit":
         print(pesan)
+        
+#68

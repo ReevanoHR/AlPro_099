@@ -6,3 +6,5 @@ if jumlah_orang > 8:
     print("Maaf, Anda harus menunggu meja tersedia.")
 else:
     print("Meja sudah tersedia untuk Anda.")
+    
+#62

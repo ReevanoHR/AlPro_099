@@ -14,3 +14,5 @@ glosarium = {
 for istilah, arti in glosarium.items():
     print(f"{istilah}:")
     print(f"    {arti}\n")
+    
+#52

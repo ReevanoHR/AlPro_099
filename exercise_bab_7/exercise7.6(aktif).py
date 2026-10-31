@@ -7,3 +7,5 @@ while aktif:
         aktif = False
     else:
         print(pesan)
+        
+#66

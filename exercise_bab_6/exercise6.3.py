@@ -9,3 +9,5 @@ glosarium = {
 for kata, arti in glosarium.items():
     print(f"{kata}:")
     print(f"    {arti}\n")
+    
+#51

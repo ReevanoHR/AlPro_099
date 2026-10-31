@@ -9,3 +9,5 @@ for nama, tempat in tempat_favorit.items():
 
     for lokasi in tempat:
         print(f"- {lokasi.title()}")
+        
+#57

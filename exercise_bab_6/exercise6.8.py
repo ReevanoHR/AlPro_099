@@ -21,3 +21,5 @@ hewan_peliharaan = [
 
 for hewan in hewan_peliharaan:
     print(hewan)
+    
+#56

@@ -11,3 +11,5 @@ for nama, angka in angka_favorit.items():
 
     for nilai in angka:
         print(nilai)
+        
+#58

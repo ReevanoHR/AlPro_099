@@ -9,3 +9,5 @@ print("Nama depan:", orang["nama_depan"])
 print("Nama belakang:", orang["nama_belakang"])
 print("Umur:", orang["umur"])
 print("Kota:", orang["kota"])
+
+#49

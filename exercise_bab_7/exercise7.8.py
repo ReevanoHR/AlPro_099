@@ -19,3 +19,5 @@ print("\nSandwich yang telah selesai:")
 
 for sandwich in sandwich_selesai:
     print(sandwich)
+    
+#70

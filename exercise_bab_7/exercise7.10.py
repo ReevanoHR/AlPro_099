@@ -21,3 +21,5 @@ for nama, tempat in hasil_polling.items():
     print(
         f"{nama.title()} ingin berlibur ke {tempat.title()}."
     )
+    
+#72
