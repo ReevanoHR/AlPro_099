@@ -1,0 +1,12 @@
+fav = 99
+
+guess = int(input("Guess my favorite number between 1 and 100: "))
+
+if guess == fav:
+    print(f"Congratulations! You guessed my favorite number! It's {fav}.")
+elif guess < fav:
+    print("Wrong! My favorite number is higher than that.")
+elif guess > fav:
+    print("Wrong! My favorite number is lower than that.")
+else:
+    print("Invalid input. Please enter a number between 1 and 100.")
