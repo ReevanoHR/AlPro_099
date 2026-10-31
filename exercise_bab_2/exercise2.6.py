@@ -16,7 +16,3 @@ message = f"{famous_person} Once said, 'Forgiveness is the final form of love.'"
 print(message)
 
 print("=" * 50)
-
-person = " Sermub "
-
-print(f"|{person}|----->\tperson.lstrip()\t:{person.lstrip()}|\n\t\t\tperson.rstrip()\t:{person.rstrip()}|\n\t\t\tperson.strip()\t:{person.strip()}|")

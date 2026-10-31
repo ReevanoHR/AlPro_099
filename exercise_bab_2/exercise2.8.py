@@ -20,3 +20,8 @@ print("=" * 50)
 person = " Sermub "
 
 print(f"|{person}|----->\tperson.lstrip()\t:{person.lstrip()}|\n\t\t\tperson.rstrip()\t:{person.rstrip()}|\n\t\t\tperson.strip()\t:{person.strip()}|")
+
+print("=" * 50)
+
+filename = "python_notes.txt"
+print(filename.removesuffix(".txt"))

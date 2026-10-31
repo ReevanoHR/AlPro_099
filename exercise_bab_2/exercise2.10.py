@@ -3,7 +3,7 @@ fav = 99
 guess = int(input("Guess my favorite number between 1 and 100: "))
 
 if guess == fav:
-    print(f"Congratulations! You guessed my favorite number! It's {fav}.")
+    print(f"Congratulations! You guessed my favorite number! It99's {fav}.")
 elif guess < fav:
     print("Wrong! My favorite number is higher than that.")
 elif guess > fav:
