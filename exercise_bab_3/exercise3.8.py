@@ -1,40 +1,40 @@
-places = ["Japan", "Iceland", "Switzerland", "New Zealand", "Canada"]
+places = ["Tokyo", "Makkah", "Berlin", "Paris", "New Delhi"]
 
 print("list:")
 print(places)
 
-# Alphabetical order (temporary)
+# Urutan secara abjad (sementara)
 print("\nDiatur secara abjad:")
 print(sorted(places))
 
-# Original list unchanged
+# Urutan masih sama
 print("\nOriginal list still:")
 print(places)
 
-# Reverse alphabetical order (temporary)
+# Urutan terbalik (sementara)
 print("\nReverse alphabetical:")
 print(sorted(places, reverse=True))
 
-# Original list unchanged
+# Urutan masih sama
 print("\nOriginal list still:")
 print(places)
 
-# Reverse list permanently
+# Urutan Terbalik permanen
 places.reverse()
 print("\nReversed list:")
 print(places)
 
-# Back to original order
+# Balik ke Urutan Asli
 places.reverse()
 print("\nBack to original:")
 print(places)
 
-# Permanent alphabetical sort
+# Permanen urutan secara abjad
 places.sort()
 print("\nSorted permanently:")
 print(places)
 
-# Permanent reverse alphabetical sort
+# Permanen Urutan secara terbalik
 places.sort(reverse=True)
 print("\nReverse alphabetical permanently:")
 print(places)
