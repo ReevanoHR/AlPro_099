@@ -1,7 +1,6 @@
-warna_alien = "green"
+warna_alien = "yellow"
 
-#if warna_alien == "green":
-    #print("Pemain mendapatkan 5 poin!")
-
-if warna_alien == "red":
-    print("Pemain mendapatkan 5 poin!")
+if warna_alien == "green":
+    print("Pemain mendapatkan 5 poin karena menembak alien hijau.")
+else:
+    print("Pemain mendapatkan 10 poin.")
