@@ -27,3 +27,5 @@ for guest in guests:
     
 print("=" * 50)
 print("\nUnfortunately, the new dinner table won't arrive in time, and I can only invite two guests for dinner.")
+
+#18

@@ -12,3 +12,5 @@ guests[1] = "Isaac Newton"
 print("\nNew invitations:")
 for guest in guests:
     print(f"Dear {guest}, I would be honored if you joined me for dinner.")
+    
+#17

@@ -10,3 +10,5 @@ print("=" * 50)
 for teman in temanku:
     message = f"Hello, {teman}, Let's learn Python programming together!"
     print(message)
+
+#14

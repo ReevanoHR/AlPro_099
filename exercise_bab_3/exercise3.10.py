@@ -44,3 +44,5 @@ print("\nReverse alphabetical order:")
 print(players)
 # Jumlah Player
 print(f"\nNumber of players in the list: {len(players)}")
+
+#22

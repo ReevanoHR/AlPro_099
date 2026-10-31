@@ -16,3 +16,5 @@ elif guess > fav:
     print("Wrong! My favorite number is lower than that.")
 else:
     print("Invalid input. Please enter a number between 1 and 100.")
+    
+#11

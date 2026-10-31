@@ -38,3 +38,5 @@ print(places)
 places.sort(reverse=True)
 print("\nReverse alphabetical permanently:")
 print(places)
+
+#20
