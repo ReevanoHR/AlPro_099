@@ -1,0 +1,3 @@
+Dalam Python saya belajar variabel.
+Dalam Python saya belajar list.
+Dalam Python saya belajar dictionary.
