@@ -18,7 +18,7 @@ class User:
 user2 = User("Reevano", 'Rajendra', 18, '081280*******', 'reevano.rajendra@example.com')
 user2.describe_user()
 user2.greet()
-
+print('=' * 50)
 user1 = User('Rizky', 'Firmansyah', 19, '081280*******', 'rizky.firmansyah@example.com')
 user1.describe_user()
 user1.greet()
